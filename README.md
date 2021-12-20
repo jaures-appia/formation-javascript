@@ -165,7 +165,7 @@ for (let student of students) {
 ```
 
 ###### while
-
+```javascript
 let numberOfPlaces = 25
 
 while(numberOfPlaces >= 0){
@@ -173,6 +173,7 @@ while(numberOfPlaces >= 0){
     numberOfPlaces--
 }
 console.log("c'est bon ya plus de place")
+```
 
 ### Mettons le tout dans une fonction
 
